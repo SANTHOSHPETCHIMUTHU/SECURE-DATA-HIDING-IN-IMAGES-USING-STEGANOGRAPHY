@@ -56,3 +56,6 @@ Image modifications after encryption may corrupt the hidden data.
 Improve encryption with AES-based encoding.
 Support more file formats (BMP, TIFF).
 Add image quality preservation during encryption.
+
+TO RUN THE PROGRAM:
+    *CLICK THE "gui.py" file.
