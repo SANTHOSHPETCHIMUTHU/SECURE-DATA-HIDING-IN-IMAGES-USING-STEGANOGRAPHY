@@ -1,7 +1,9 @@
 # SECURE-DATA-HIDING-IN-IMAGES-USING-STEGANOGRAPHY
 THERE ARE TWO PROJECTS ONE DONE WITH GUI AND ANOTHER WITHOUT GUI
-        LOOK FOR stego.py for (without gui)
-        LOOK FOR gui.py for (with gui)
+      -  LOOK FOR stego.py for (without gui)
+      -  LOOK FOR gui.py for (with gui)
+
+      PLEASE USE "git clone" command for project execution.
         
 This project implements **LSB (Least Significant Bit) Steganography** to securely hide text messages inside images using Python. It provides a **GUI** for easy encryption and decryption of messages within images.
 
