@@ -4,6 +4,10 @@ THERE ARE TWO PROJECTS ONE DONE WITH GUI AND ANOTHER WITHOUT GUI
       -  LOOK FOR gui.py for (with gui)
 
       PLEASE USE "git clone" command for project execution.
+
+      stego.py
+
+      gui.py
         
 This project implements **LSB (Least Significant Bit) Steganography** to securely hide text messages inside images using Python. It provides a **GUI** for easy encryption and decryption of messages within images.
 
